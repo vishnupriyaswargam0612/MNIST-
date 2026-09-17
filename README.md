@@ -137,7 +137,7 @@ MNIST-Project/│├── dataset/├── models/├── notebooks/├─�
 
 Installation and Setup
 Clone the Repository
-git clone https://github.com/your-username/MNIST-Project.gitcd MNIST-Project
+git clone https://github.com/vishnupriyaswargam0612/MNIST-
 Install Dependencies
 pip install -r requirements.txt
 Run the Project
