@@ -193,7 +193,7 @@ Model training and evaluation
 
 
 Author
-Baladithya Sai Kumar
+Swargam Vishnu Priya
 B.Tech Student | Aspiring Full Stack & Machine Learning Developer
 
 License
